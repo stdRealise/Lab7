@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqIOHL9PKfg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\popov\\Desktop\\csh\\Project2\\Project2\\Project2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\popov\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\popov\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
